@@ -6,7 +6,9 @@ class Book
     @title = title
   end
   
-  
+  def turn_page
+    puts "Turning page"
+  end
   
 end
 
